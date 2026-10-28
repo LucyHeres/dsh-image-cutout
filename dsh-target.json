@@ -1,0 +1,9 @@
+{
+  "dshVersion": "0.2.1-rc.2",
+  "cordisVersion": "4.0.5",
+  "toolsVersion": "0.2.1-rc.2",
+  "schemaVersion": "3.18.5",
+  "surface": "host+client",
+  "note": "Host tool plus a keyed Toolview card. Inference runs locally through onnxruntime-node; images never leave the machine.",
+  "targetClient": "Xinling 2.0.18"
+}
